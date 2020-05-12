@@ -1,0 +1,14 @@
+nav ul{
+    display: flex;
+    justify-content: center;
+    list-style: none;
+}
+
+nav ul li{
+    padding: 0.5em;
+}
+
+nav ul li a{
+    cursor: pointer;
+    text-decoration: none;
+}

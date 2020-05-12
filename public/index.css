@@ -1,0 +1,17 @@
+@font-face{
+    font-family: Menlo;
+    src: url(Menlo.ttc);
+}
+
+body{
+    margin: 0;
+    font-family: -apple-system, sans-serif;
+}
+
+h3{
+    font-family: Menlo, monospace;
+}
+
+a{
+    color: black;
+}
